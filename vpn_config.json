@@ -1,1 +1,15 @@
-
+{
+  "update": {
+    "latestVersionCode": 1,
+    "updateUrl": "https://github.com/tu-usuario/tu-repo/releases/download/v1/app.apk",
+    "forceUpdate": false
+  },
+  "servers": [
+    {
+      "name": "USA Premium 🇺🇸",
+      "ip": "104.21.45.1",
+      "sni": "facebook.com",
+      "country": "us"
+    }
+  ]
+}
