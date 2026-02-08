@@ -1,6 +1,6 @@
 {
   "update": {
-    "latestVersionCode": 1,
+    "latestVersionCode": 2,
     "updateUrl": "https://github.com/tu-usuario/tu-repo/releases/download/v1/app.apk",
     "forceUpdate": false
   },
