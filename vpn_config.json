@@ -1,15 +1,18 @@
 {
   "update": {
-    "latestVersionCode": 1,
+    "latestVersionCode": 1.1,
     "updateUrl": "https://github.com/argepalia6-droid/Config.json/releases/download/V2/app-debug.apk",
     "forceUpdate": false
   },
   "servers": [
     {
-      "name": "USA Premium 🇺🇸",
-      "ip": "104.21.45.1",
-      "sni": "facebook.com",
-      "country": "us"
+      
+    
+  "name": "Mi VPS Premium",
+  "ip": "195.123.240.180",  "user": "bnet-LHJJI",
+  "password": "91430",
+  "country": "US"
+
     }
   ]
 }
