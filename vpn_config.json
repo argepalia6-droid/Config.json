@@ -1,0 +1,19 @@
+{
+  "servers": [
+    {
+      "name": "USA Premium 🇺🇸",
+      "ip": "104.21.45.1",
+      "sni": "mifacebook.com"
+    },
+    {
+      "name": "Europa Ultra 🇪🇸",
+      "ip": "80.12.33.44",
+      "sni": "migoogle.com"
+    },
+    {
+      "name": "Latam VIP 🇧🇷",
+      "ip": "200.15.10.1",
+      "sni": "miyoutube.com"
+    }
+  ]
+}
