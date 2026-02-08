@@ -11,7 +11,7 @@
     }
   ],
   "update": {
-    "latestVersionCode": 3, 
+    "latestVersionCode": 4, 
     "updateUrl": "https://github.com/argepalia6-droid/Config.json/releases/download/V3/app-debug.apk",
     "forceUpdate": true
   }
